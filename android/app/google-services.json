@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922136756059",
+    "project_id": "qlink-c75ee",
+    "storage_bucket": "qlink-c75ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922136756059:android:d71dad12db1af1a448647e",
+        "android_client_info": {
+          "package_name": "com.qlink.qlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922136756059-lhvj9qgvmd58o8tb0phsulr95qmn6alj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GlqKi4hz89Yu1_Bw80jUVGJQvSUGguE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922136756059-lhvj9qgvmd58o8tb0phsulr95qmn6alj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
